@@ -7,7 +7,7 @@ public class JenisLaptop {
     String warna = "Hitam";
     String spek = "Intel Core pentium";
 
-    void tampilnamalaptop() {
+    void tampilspek(){
         System.out.println("merkLaptop = " + merkLaptop);
         System.out.println("jenisLaptop = " + jenisLaptop);
         System.out.println("warna = " + warna);
